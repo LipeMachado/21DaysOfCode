@@ -3,8 +3,7 @@
 This repository was created to develop the challenges designed by the rocket for 21 days, with challenge each day.
 
 > To run the demo just click on the circle that is green.
-
-
+> To open the repository just click on the link icon.
 
 | Status |    Challenges    |                                              Description                                                 |   Demo   |   Repository   |
 | ------ | ---------------- | -------------------------------------------------------------------------------------------------------- | -------- | -------------- |
