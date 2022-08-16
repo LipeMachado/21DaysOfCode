@@ -4,13 +4,13 @@
 
 | Status |    Challenges    |                                              Description                                                 |   Demo   |
 | ------ | ---------------- | -------------------------------------------------------------------------------------------------------- | -------- |
-| > [ ]  | Challenge 01     | Create a repository to list the projects that will be developed <br/> during the 21 days of code.        | > <a href="https://github.com/LipeMachado/21DaysOfCode">🔴</a> < |
-| > [ ]  | Challenge 02     | Make a custom Hello World with fonts, colors, and images.                                                | > <a href="https://github.com/LipeMachado/21DaysOfCode">🔴</a> < |
-| > [ ]  | Challenge 03     | Create an animated button.                                                                               | > <a href="https://github.com/LipeMachado/21DaysOfCode">🔴</a> < |
-| > [ ]  | Challenge 04     | Create a calculator.                                                                                     | > <a href="https://github.com/LipeMachado/21DaysOfCode">🔴</a> < |
-| > [ ]  | Challenge 05     | Develop a custom page that displays the 404 error.                                                       | > <a href="https://github.com/LipeMachado/21DaysOfCode">🔴</a> < |
-| > [ ]  | Challenge 06     | Create a card with the glassmorphism effect.                                                             | > <a href="https://github.com/LipeMachado/21DaysOfCode">🔴</a> < |
-| > [ ]  | Challenge 07     | Develop a counter.                                                                                       | > <a href="https://github.com/LipeMachado/21DaysOfCode">🔴</a> < |
+| > [ ]  | Challenge 01     | Create a repository to list the projects that will be developed <br/> during the 21 days of code.        | > <a href="https://github.com/LipeMachado/21DaysOfCode">:green_circle:</a> < |
+| > [ ]  | Challenge 02     | Make a custom Hello World with fonts, colors, and images.                                                | > <a href="https://github.com/LipeMachado/21DaysOfCode">:red_circle:</a> < |
+| > [ ]  | Challenge 03     | Create an animated button.                                                                               | > <a href="https://github.com/LipeMachado/21DaysOfCode">:red_circle:</a> < |
+| > [ ]  | Challenge 04     | Create a calculator.                                                                                     | > <a href="https://github.com/LipeMachado/21DaysOfCode">:red_circle:</a> < |
+| > [ ]  | Challenge 05     | Develop a custom page that displays the 404 error.                                                       | > <a href="https://github.com/LipeMachado/21DaysOfCode">:red_circle:</a> < |
+| > [ ]  | Challenge 06     | Create a card with the glassmorphism effect.                                                             | > <a href="https://github.com/LipeMachado/21DaysOfCode">:red_circle:</a> < |
+| > [ ]  | Challenge 07     | Develop a counter.                                                                                       | > <a href="https://github.com/LipeMachado/21DaysOfCode">:red_circle:</a> < |
 | > [ ]  | Comming Soon     |
 | > [ ]  | Comming Soon     |
 | > [ ]  | Comming Soon     |
