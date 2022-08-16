@@ -2,26 +2,26 @@
 
 > This repository was created to develop the challenges designed by the rocket for 21 days, with challenge each day.
 
-| Status |   Challenges   |                                              Description                                                 |        Demo        |
-| ------ | -------------- | -------------------------------------------------------------------------------------------------------- | ------------------ |
-| > [ ]  | Desafio 01     | Criar um repositório para listar os projetos que serão <br/> desenvolvidos durante os 21 dias de código. |                    |
-| > [ ]  | Desafio 02     | Faça um Hello World customizado com fontes, cores e imagens.                                             |                    |
-| > [ ]  | Desafio 03     | Crie um botão animado.                                                                                   |                    |
-| > [ ]  | Desafio 04     | Crie uma calculadora.                                                                                    |                    |
-| > [ ]  | Desafio 05     | Desenvolva uma página customizada que exiba o erro 404.                                                  |                    |
-| > [ ]  | Desafio 06     | Crie um card com o efeito glassmorphism.                                                                 |                    |
-| > [ ]  | Desafio 07     | Desenvolva um contador.                                                                                  |                    |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
-| > [ ]  | Comming Soon   |
+| Status |    Challenges    |                                              Description                                                 |        Demo        |
+| ------ | ---------------- | -------------------------------------------------------------------------------------------------------- | ------------------ |
+| > [ ]  | Challenge 01     | Create a repository to list the projects that will be developed <br/> during the 21 days of code.        |                    |
+| > [ ]  | Challenge 02     | Make a custom Hello World with fonts, colors, and images.                                                |                    |
+| > [ ]  | Challenge 03     | Create an animated button.                                                                               |                    |
+| > [ ]  | Challenge 04     | Create a calculator.                                                                                     |                    |
+| > [ ]  | Challenge 05     | Develop a custom page that displays the 404 error.                                                       |                    |
+| > [ ]  | Challenge 06     | Create a card with the glassmorphism effect.                                                             |                    |
+| > [ ]  | Challenge 07     | Develop a counter.                                                                                       |                    |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
+| > [ ]  | Comming Soon     |
