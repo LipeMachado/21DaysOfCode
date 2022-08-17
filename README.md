@@ -8,7 +8,7 @@ This repository was created to develop the challenges designed by the rocket for
 
 | Status |    Challenges    |                                              Description                                                 |   Demo   |   Repository   |
 | ------ | ---------------- | -------------------------------------------------------------------------------------------------------- | -------- | -------------- |
-| > [ ]  | Challenge 01     | Create a repository to list the projects that will be developed during the 21 days of code.        | <a href="http://powland.vercel.app/">:green_circle:</a> | <a href="https://github.com/LipeMachado/powland">:link:</a> |
+| > [x]  | Challenge 01     | Create a repository to list the projects that will be developed during the 21 days of code.        | <a href="http://powland.vercel.app/">:green_circle:</a> | <a href="https://github.com/LipeMachado/powland">:link:</a> |
 | > [ ]  | Challenge 02     | Make a custom Hello World with fonts, colors, and images.                                                | :red_circle: | :link: |
 | > [ ]  | Challenge 03     | Create an animated button.                                                                               | :red_circle: | :link: |
 | > [ ]  | Challenge 04     | Create a calculator.                                                                                     | :red_circle: | :link: |
