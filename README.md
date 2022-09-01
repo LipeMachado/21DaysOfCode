@@ -10,7 +10,7 @@ This repository was created to develop the challenges designed by the rocket for
 | ------ | ---------------- | -------------------------------------------------------------------------------------------------------- | -------- | -------------- |
 | > [x]  | Challenge 01     | Create a repository to list the projects that will be developed during the 21 days of code.        | <a href="https://powland.vercel.app/">:green_circle:</a> | <a href="https://github.com/LipeMachado/powland">:link:</a> |
 | > [x]  | Challenge 02     | Make a custom Hello World with fonts, colors, and images.                                                | <a               href="https://helloworld-21daysofcode.vercel.app">:green_circle:</a> | <a href="https://github.com/LipeMachado/customHelloWorld-21DaysOfCode">:link:</a> |
-| > [ ]  | Challenge 03     | Create an animated button.                                                                               | :red_circle: | :link: |
+| > [ ]  | Challenge 03     | Create an animated button.                                                                               | <a  href="https://animatedbutton-21daysofcode.vercel.app/">:green_circle:</a> | <a href="https://github.com/LipeMachado/animatedButton-21DaysOfCode">:link:</a> |
 | > [ ]  | Challenge 04     | Create a calculator.                                                                                     | :red_circle: | :link: |
 | > [ ]  | Challenge 05     | Develop a custom page that displays the 404 error.                                                       | :red_circle: | :link: |
 | > [ ]  | Challenge 06     | Create a card with the glassmorphism effect.                                                             | :red_circle: | :link: |
