@@ -15,17 +15,17 @@ This repository was created to develop the challenges designed by the rocket for
 | > [ ]  | Challenge 05     | Develop a custom page that displays the 404 error.                                                       | :red_circle: | :link: |
 | > [ ]  | Challenge 06     | Create a card with the glassmorphism effect.                                                             | :red_circle: | :link: |
 | > [ ]  | Challenge 07     | Develop a counter.                                                                                       | :red_circle: | :link: |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
-| > [ ]  | Comming Soon     |
+| > [ ]  | Challenge 08     | Develop a toggle that changes the theme to light and dark.                                               | :red_circle: | :link: |
+| > [ ]  | Challenge 09     | Create a loading animation.                                                                              | :red_circle: | :link: |
+| > [ ]  | Challenge 10     | Utilizar uma lib Particle.js do JavaScript.                                                              | :red_circle: | :link: |
+| > [ ]  | Challenge 11     | Crie o layout de um formulário de login.                                                                 | :red_circle: | :link: |
+| > [ ]  | Challenge 12     | Desenvolva uma galeria de imagens.                                                                       | :red_circle: | :link: |
+| > [ ]  | Challenge 13     | Desenvolva um menu responsivo.                                                                           | :red_circle: | :link: |
+| > [ ]  | Challenge 14     | Crie um formulário de quizzes.                                                                           | :red_circle: | :link: |
+| > [ ]  | Comming Soon     | Develop a site that displays a showcase of products from a fictitious e-commerce (with product names, prices, and images). | :red_circle: | :link: |
+| > [ ]  | Comming Soon     | Develop a website using some public API.                                                                 | :red_circle: | :link: |
+| > [ ]  | Comming Soon     | Develop a website that captures keyboard events and displays the event and the key pressed on the screen.| :red_circle: | :link: |
+| > [ ]  | Comming Soon     | Develop a random password generator.                                                                     | :red_circle: | :link: |
+| > [ ]  | Comming Soon     | Develop a website that generates random images using the Unsplash API.                                   | :red_circle: | :link: |
+| > [ ]  | Comming Soon     | Develop an emoji picker website. When you select the emoji, it is copied to the clipboard.               | :red_circle: | :link: |
+| > [ ]  | Comming Soon     | Develop a page to be your portfolio.                                                                     | :red_circle: | :link: |
